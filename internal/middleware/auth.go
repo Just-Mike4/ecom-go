@@ -3,7 +3,7 @@ package middleware
 import (
 	"net/http"
 
-	"github.com/Just-Mike4/go-ecom/internal/json"
+	"github.com/Just-Mike4/ecom-go/internal/json"
 )
 
 // AuthMiddleware validates JWT tokens

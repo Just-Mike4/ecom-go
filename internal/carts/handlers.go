@@ -3,7 +3,7 @@ package carts
 import (
 	"net/http"
 
-	"github.com/Just-Mike4/go-ecom/internal/json"
+	"github.com/Just-Mike4/ecom-go/internal/json"
 )
 
 type handler struct{}

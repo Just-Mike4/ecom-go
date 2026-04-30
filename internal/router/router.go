@@ -3,11 +3,11 @@ package router
 import (
 	"net/http"
 
-	"github.com/Just-Mike4/go-ecom/internal/carts"
-	"github.com/Just-Mike4/go-ecom/internal/orders"
-	"github.com/Just-Mike4/go-ecom/internal/payments"
-	"github.com/Just-Mike4/go-ecom/internal/products"
-	"github.com/Just-Mike4/go-ecom/internal/users"
+	"github.com/Just-Mike4/ecom-go/internal/carts"
+	"github.com/Just-Mike4/ecom-go/internal/orders"
+	"github.com/Just-Mike4/ecom-go/internal/payments"
+	"github.com/Just-Mike4/ecom-go/internal/products"
+	"github.com/Just-Mike4/ecom-go/internal/users"
 	"github.com/go-chi/chi/v5"
 )
 

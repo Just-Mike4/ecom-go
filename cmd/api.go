@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/Just-Mike4/go-ecom/internal/middleware"
-	"github.com/Just-Mike4/go-ecom/internal/router"
+	"github.com/Just-Mike4/ecom-go/internal/middleware"
+	"github.com/Just-Mike4/ecom-go/internal/router"
 	"github.com/go-chi/chi/v5"
 	chimiddleware "github.com/go-chi/chi/v5/middleware"
 

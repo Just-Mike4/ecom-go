@@ -1,4 +1,4 @@
-module github.com/Just-Mike4/go-ecom
+module github.com/Just-Mike4/ecom-go
 
 go 1.23.2
 
