@@ -13,8 +13,8 @@ import (
 
 func Setup() http.Handler {
 	r := chi.NewRouter()
-
 	// Initialize handlers
+
 	userHandler := users.NewHandler()
 	productHandler := products.NewHandler()
 	cartHandler := carts.NewHandler()
